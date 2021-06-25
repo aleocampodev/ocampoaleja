@@ -8,10 +8,10 @@
        
    I am interested in working in the medical , tourism , entertainment and e-commerce industries ;
 
-    After having a work experience, choose to go building and acquiring more skills developed some projects:
+  After having a work experience, choose to go building and acquiring more skills developed some projects:
                         
-                       * [Hola](https://lafondarestaurant.netlify.app/)
-                       * [](https://infallible-dijkstra-093809.netlify.app/)
+                       * [enter here](https://lafondarestaurant.netlify.com)
+                       * []](https://infallible-dijkstra-093809.netlify.app/)
                        * https://determined-leavitt-be7195.netlify.app/
                        * https://music-js.netlify.app/
                        * https://to-dolistreact.netlify.app/
