@@ -10,7 +10,7 @@
 
   After having a work experience, choose to go building and acquiring more skills developed some projects:
                         
-                       * ![](https://lafondarestaurant.netlify.com)
+  + ![](https://lafondarestaurant.netlify.com)
                        * ![](https://infallible-dijkstra-093809.netlify.app/)
                        * https://determined-leavitt-be7195.netlify.app/
                        * https://music-js.netlify.app/
