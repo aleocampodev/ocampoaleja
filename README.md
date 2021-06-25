@@ -10,10 +10,10 @@
 
   After having a work experience, choose to go building and acquiring more skills developed some projects:
                         
-  + [la fonda restaurante](https://lafondarestaurant.netlify.com)
-  + https://infallible-dijkstra-093809.netlify.app/
-  + https://determined-leavitt-be7195.netlify.app/
-  + https://music-js.netlify.app/
-  + https://to-dolistreact.netlify.app/
-  + https://ocampoaleja.github.io/sweet-quotes/
-  + https://ocampoaleja.github.io/monstersReact/
+  + [La fonda restaurante](https://lafondarestaurant.netlify.com)
+  + [Captyco System](https://infallible-dijkstra-093809.netlify.app/)
+  + [Dia](https://determined-leavitt-be7195.netlify.app/)
+  + [Music Js])https://music-js.netlify.app/)
+  + [To do list](https://to-dolistreact.netlify.app/)
+  + [Sweet quotes](https://ocampoaleja.github.io/sweet-quotes/)
+  + [Monsters](https://ocampoaleja.github.io/monstersReact/)
