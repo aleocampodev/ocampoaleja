@@ -1,6 +1,6 @@
 ### Hello, I'm Aleja Ocampo ! 👩‍💻 👋
 
- ![](//blog-cms.workifit.com/wp-content/uploads/2021/01/0_K2WLMTExLyida7OR.gif)
+ ![Aleja Ocampo](https://blog-cms.workifit.com/wp-content/uploads/2021/01/0_K2WLMTExLyida7OR.gif)
 
 <!--
 
