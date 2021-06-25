@@ -9,4 +9,4 @@ I am interested in working in the medical , tourism , entertainment and e-commer
 
 After having a work experience, choose to go building and acquiring more skills developed some projects:
 
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span></div>
+
