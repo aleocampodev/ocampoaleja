@@ -1,6 +1,7 @@
 ### Hello, I'm Aleja Ocampo ! 👩‍💻 👋
 
-![image](https://user-images.githubusercontent.com/38270435/123358587-4d2f6e80-d531-11eb-85a5-48002b287f1f.png)
+ ![](//blog-cms.workifit.com/wp-content/uploads/2021/01/0_K2WLMTExLyida7OR.gif)
+
 <!--
 
 Biomedical engineer passionate for the technology , autodidact , which gradually leads me to enter the world of programming. I worked with Vue / Vuetify , React , Firebase , CSS / SASS, Tailwind.
