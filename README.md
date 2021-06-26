@@ -26,7 +26,7 @@
 <br/>
 <h3 align="left">Courses:</h3>
 
-- Vue.js 2
+- Vue.js 2<hr/>
   Udemy
   Jul 2018 - Sept 2018
 - Flexbox
