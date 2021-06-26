@@ -27,24 +27,24 @@
 
 <h3 align="left">Courses:</h3>
 
-- <h5> Vue.js 2. </h5>
+- <h4> Vue.js 2. </h4>
   Udemy.
   Jul 2018 - Sept 2018.
-- Flexbox.
-  Udemy 
-  Apr 2019 - May 2019
-- ¿Cómo crear una página we?
-  Udemy
-  Jan 2020 - Feb 2020
-- HTML,CSS & JavaScript ,Certification Course  for Begginers
-  Udemy
-  Jan 2020 - Feb 2020
-- Curso Profesional de JavaScript
-  CóigoFacilito
-  Mar 2020 - Mar 2020
-- Curso Profesional de React
-  CódigoFacilito
-  Mar 2020 - Apr 2020
+- <h4>Flexbox.</h4>
+  Udemy.
+  Apr 2019 - May 2019.
+- <h4>¿Cómo crear una página web?.</h4>
+  Udemy.
+  Jan 2020 - Feb 2020.
+- <h4>HTML,CSS & JavaScript ,Certification Course  for Begginers.</h4>
+  Udemy.
+  Jan 2020 - Feb 2020.
+- <h4>Curso Profesional de JavaScript.</h4>
+  CóigoFacilito.
+  Mar 2020 - Mar 2020.
+- <h4>Curso Profesional de React</h4>
+  CódigoFacilito.
+  Mar 2020 - Apr 2020.
 
 <hr/>
 
