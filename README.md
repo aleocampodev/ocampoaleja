@@ -1,6 +1,8 @@
 ### Hello, I'm Aleja Ocampo ! 👩‍💻 👋 
 
-<h3 align="center">"Any time is perfect, to learn something new." Albert Einsteins</h3>
+
+<h3>"Any time is perfect, to learn something new." Albert Einstein</h3>
+
 
  ![Aleja Ocampo](https://blog-cms.workifit.com/wp-content/uploads/2021/01/0_K2WLMTExLyida7OR.gif)
 
