@@ -23,11 +23,12 @@
   + [Sweet quotes](https://ocampoaleja.github.io/sweet-quotes/)
   + [Monsters](https://ocampoaleja.github.io/monstersReact/)
   
-<br/>
+<hr/>
+
 <h3 align="left">Courses:</h3>
 
-- Vue.js 2<hr/>
-  Udemy
+- <p>Vue.js 2</p>
+  <p>Udemy </p>
   Jul 2018 - Sept 2018
 - Flexbox
   Udemy 
@@ -45,19 +46,19 @@
   CódigoFacilito
   Mar 2020 - Apr 2020
 
-<br/>
+<hr/>
 
 <h3 align="left">Learning</h3>
 
 🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1)**
 
-<br/>
+<hr/>
 
 <h3 align="left">Experience</h3>
 
 📄 Know about my experiences [https://www.linkedin.com/in/alejaocampo/](https://www.linkedin.com/in/alejaocampo/)
 
-<br/>
+<hr/>
 
 
 <h3 align="left">Languages and Tools:</h3>
