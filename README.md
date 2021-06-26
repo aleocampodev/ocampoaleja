@@ -23,11 +23,12 @@
   + [Sweet quotes](https://ocampoaleja.github.io/sweet-quotes/)
   + [Monsters](https://ocampoaleja.github.io/monstersReact/)
 
-<br/>
   
 - 🌱 I’m currently learning **React,CSS Grid, English(B1)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejaocampo/](https://www.linkedin.com/in/alejaocampo/)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
