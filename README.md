@@ -27,10 +27,10 @@
 
 <h3 align="left">Courses:</h3>
 
-- <p>Vue.js 2</p>
-  <p>Udemy </p>
-  Jul 2018 - Sept 2018
-- Flexbox
+- <h5> Vue.js 2. </h5>
+  Udemy.
+  Jul 2018 - Sept 2018.
+- Flexbox.
   Udemy 
   Apr 2019 - May 2019
 - ¿Cómo crear una página we?
