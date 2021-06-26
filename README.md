@@ -24,10 +24,38 @@
   + [Monsters](https://ocampoaleja.github.io/monstersReact/)
   
 <br/>
-  
-- 🌱 I’m currently learning **React,CSS Grid, English(B1)**
+<h3 align="left">Courses:</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alejaocampo/](https://www.linkedin.com/in/alejaocampo/)
+- Vue.js 2
+  Udemy
+  Jul 2018 - Sept 2018
+- Flexbox
+  Udemy 
+  Apr 2019 - May 2019
+- ¿Cómo crear una página we?
+  Udemy
+  Jan 2020 - Feb 2020
+- HTML,CSS & JavaScript ,Certification Course  for Begginers
+  Udemy
+  Jan 2020 - Feb 2020
+- Curso Profesional de JavaScript
+  CóigoFacilito
+  Mar 2020 - Mar 2020
+- Curso Profesional de React
+  CódigoFacilito
+  Mar 2020 - Apr 2020
+
+<br/>
+
+<h3 align="left">Learning</h3>
+
+🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1)**
+
+<br/>
+
+<h3 align="left">Experience</h3>
+
+📄 Know about my experiences [https://www.linkedin.com/in/alejaocampo/](https://www.linkedin.com/in/alejaocampo/)
 
 <br/>
 
