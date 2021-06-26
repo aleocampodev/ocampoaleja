@@ -1,6 +1,6 @@
 ### Hello, I'm Aleja Ocampo ! 👩‍💻 👋 
 
-"Any time is perfect, to learn something new." Albert Einstein.
+<h3 align="center">"Any time is perfect, to learn something new." Albert Einsteins</h3>
 
  ![Aleja Ocampo](https://blog-cms.workifit.com/wp-content/uploads/2021/01/0_K2WLMTExLyida7OR.gif)
 
@@ -21,7 +21,6 @@
   + [Sweet quotes](https://ocampoaleja.github.io/sweet-quotes/)
   + [Monsters](https://ocampoaleja.github.io/monstersReact/)
   
-  <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React,CSS Grid, English(B1)**
 
