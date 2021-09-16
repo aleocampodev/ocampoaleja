@@ -18,7 +18,7 @@
   + [La fonda restaurante](https://lafondarestaurant.netlify.com)
   + [Captyco System](https://infallible-dijkstra-093809.netlify.app/)
   + [Dia](https://determined-leavitt-be7195.netlify.app/)
-  + [lista de tareas](https://to-dolistreact.netlify.app/)
+  + [Lista de tareas](https://to-dolistreact.netlify.app/)
   + [Sweet quotes](https://ocampoaleja.github.io/sweet-quotes/)
   + [Monsters](https://ocampoaleja.github.io/monstersReact/)
   
@@ -49,7 +49,7 @@
 
 <h3 align="left">Learning</h3>
 
-🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1)**
+🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1),Gatsby**
 
 <hr/>
 
