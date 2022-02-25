@@ -49,7 +49,7 @@
 
 <h3 align="left">Learning</h3>
 
-🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1),Gatsby**
+🌱 I’m currently learning **React,CSS Grid,Vue3, English(B1)
 
 <hr/>
 
